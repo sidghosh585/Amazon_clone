@@ -1,1 +1,1 @@
-# Amazone_clone
+It is a cloning of Amazon website with HTML5 and CSS which is not responsive that is the styling is not compatible with different screens(Example Mobile)# Amazone_clone
